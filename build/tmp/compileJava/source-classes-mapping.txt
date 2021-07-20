@@ -1,0 +1,41 @@
+mod/gptc/init/ModLootTable.java
+ mod.gptc.init.ModLootTable
+ mod.gptc.init.ModLootTable$LootTableInsert
+mod/gptc/client/entity/render/gem/RenderGemRuby.java
+ mod.gptc.client.entity.render.gem.RenderGemRuby
+mod/gptc/entity/ai/EntityAIWander.java
+ mod.gptc.entity.ai.EntityAIWander
+mod/gptc/entity/ai/EntityAIFollow.java
+ mod.gptc.entity.ai.EntityAIFollow
+mod/gptc/entity/GemEntity.java
+ mod.gptc.entity.GemEntity
+mod/gptc/client/entity/render/layers/ruby/LayerRubyUniform.java
+ mod.gptc.client.entity.render.layers.ruby.LayerRubyUniform
+mod/gptc/util/Colors.java
+ mod.gptc.util.Colors
+mod/gptc/client/entity/render/layers/ruby/LayerRubyHair.java
+ mod.gptc.client.entity.render.layers.ruby.LayerRubyHair
+mod/gptc/proxy/ClientProxy.java
+ mod.gptc.proxy.ClientProxy
+mod/gptc/entity/util/GemPlacements.java
+ mod.gptc.entity.util.GemPlacements
+mod/gptc/entity/gem/GemRuby.java
+ mod.gptc.entity.gem.GemRuby
+mod/gptc/client/entity/render/layers/ruby/LayerRubyGemstone.java
+ mod.gptc.client.entity.render.layers.ruby.LayerRubyGemstone
+mod/gptc/client/entity/model/gem/ModelRuby.java
+ mod.gptc.client.entity.model.gem.ModelRuby
+mod/gptc/client/entity/render/layers/ruby/LayerRubySkin.java
+ mod.gptc.client.entity.render.layers.ruby.LayerRubySkin
+mod/gptc/client/entity/render/layers/ruby/LayerRubyInsignia.java
+ mod.gptc.client.entity.render.layers.ruby.LayerRubyInsignia
+mod/gptc/GPTC.java
+ mod.gptc.GPTC
+mod/gptc/entity/util/GemCuts.java
+ mod.gptc.entity.util.GemCuts
+mod/gptc/init/ModItems.java
+ mod.gptc.init.ModItems
+mod/gptc/item/ItemGemstone.java
+ mod.gptc.item.ItemGemstone
+mod/gptc/init/ModEntities.java
+ mod.gptc.init.ModEntities
